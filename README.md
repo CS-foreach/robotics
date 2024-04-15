@@ -1,4 +1,4 @@
-# `Repo Title` in `Tool/Library`
+# `Robotics`
 
 > Write a premise as to why this topic is interesting to the students and what important thing we're teaching.
 
@@ -16,7 +16,7 @@ what is important.
 
 ## How to use this repo
 
-The [wiki]() will contain key insights from previous iterations of the workshops 
+The [wiki](https://github.com/CS-foreach/robotics/wiki) will contain key insights from previous iterations of the workshops 
 as well as a crash course for new volunteers.
 
 The [workshops]() folder will contain all the workshop lesson plans.
@@ -26,7 +26,16 @@ The [workshops]() folder will contain all the workshop lesson plans.
 
 ## Online Resources
 
+### General Robotics resources
+
+| Link | Description |
+| ---  | ---         |
+| []() |             |
+
+### Lego resources
+
 | Link | Description |
 | --- | --- |
-| [GitHub/Workshop-Repo]() | Workshop Repo |
-| []() | Tool / Library / Example / Reference Lesson Plan |
+| [GitHub/robotics](https://github.com/CS-foreach/robotics) | Workshop Repo |
+| [RedwoodCity/Lego-League](https://sites.google.com/view/rcplcode/lego-robotics-league) | LEGO Robotics Coding Club |
+| [LEGO/Prime](https://education.lego.com/en-us/start/spike-prime/) | LEGO lesson plans |
