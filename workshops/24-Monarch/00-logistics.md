@@ -1,17 +1,4 @@
-# YY-Workshop-Topic-Location
-
-> [!NOTE] 
-> This doc serves as a one stop shop for all the logistics information 
-> related to running the workshop.
-> - Remove any quote block that has the `NOTE` attribute
-> - The title of the repo should conform to the title of this readme. 
->   - If a robotics workshop was taught at the monarch school: `23-Workshop-Robotics-Monarch`.
-
-`CHANGEME` Premise, aka the topic that you are trying to teach in sentence form. Should
-convey the key interesting factors and how they might relate to the learning
-goals. It should also explain what activities are conducted and what the 
-original audience for the workshop was. Any future workshops should fork the
-original workshop it was based on inside the GitHub/CSFE organization.
+# 24-Class-LEGO_Robotics-Monarch
 
 ## Learning Goals:
 
@@ -19,7 +6,6 @@ Learning goals set the end goal of the workshop of lesson plan. What are the key
 takeaways? This helps curriculum developers determine what is supplemental and 
 what is important.
 
-- `{CHANGEME}`
 - Identify and explain [x] in [y]
 - Describe the concept of [x] in [y]
 - Use [x] to solve [y]
@@ -35,38 +21,32 @@ what is important.
 
 | Meta Data | Type |
 | --- | --- |
-| Topic | `Recursion / Creativity / Robotics / Language` |
-| Type | `Exploration / Intro / Review / Tutorial / Project` |
-| Grade | `K_5 / 6_8 / 9_12 / CC (Community College)` |
-| Difficulty | `Beginner / Intermediate / Advanced` |
-| Prerequisites | `Prior python experience, understanding OOP, etc.` |
-
-> [!NOTE]
-> These details may be moved to the event sign up application if one is made.
+| Topic | `Robotics` |
+| Type | `Exploration / Intro / Project` |
+| Grade | `6_8` |
+| Difficulty | `Beginner / Intermediate` |
+| Prerequisites | `None` |
+| Student count | ~6 (more may join halfway through) |
 
 | Logistics | Details |
 | --- | --- |
-| Address | `Google maps link` |
-| Parking Notes |  |
-| Check in process | |
-| Day(s) | `DD/MM/YY` |
-| Time | `HH:MM` - `HH:MM` |
-| Pickup Time | `HH:MM` |
-| Pick up location | `Google maps pin` |
-| Designated driver | `fname lname email; fname lname email; ...` |
-
+| Address | [1625 Newton Ave, San Diego, CA 92113](https://maps.app.goo.gl/BobdBubrTe8sm7Pj9) |
+| Parking Notes | Parking is difficult here. Street parking or call ahead to point of contact |
+| Check in process | Check in at the front office, ask for Luis, state business as "lego robotics instructor,." Will need a valid government issued ID |
+| Day(s) | `04/17/24 - 06/26/24` |
+| Time | `01:30PM` - `02:30PM` |
+| Pickup Time | `12:30PM` |
+| Pick up location | `TBD` |
+| Designated driver | `Ryan Lay rlay@ucsd.edu; fname lname email; ...` |
 
 ### Workshop Involvement
 
-> [!NOTE]
-> Feel free to add custom involvement directions.
-
 If you want to get involved in teaching the workshop or contributing to the 
-source code, reach out to [workshop-lead@ucsd.edu]() and join the 
+source code, reach out to [rlay@ucsd.edu](rlay@ucsd.edu) and join the 
 [event thread]() in Discord.
 
 Contributors:
-- `fname lname email`
+- `Ryan Lay rlay@ucsd.edu`
 - `fname lname email`
 - `...`
 
@@ -74,20 +54,16 @@ Contributors:
 
 | Link | Description |
 | --- | --- |
-| [Source/Article_title]() | `Generic format for new resources` |
-| [GitHub/Workshop_Template](https://github.com/CS-foreach/Workshop-Template/tree/main) | Workshop Repo |
-| [Slides/Workshop_Presentation]() | Presentation for the workshop |
-| [GitHub/Lesson_Plan]() | Lesson Plan / Agenda |
+| [GitHub/robotics](https://github.com/CS-foreach/robotics) | Workshop Repo |
+| [RedwoodCity/Lego-League](https://sites.google.com/view/rcplcode/lego-robotics-league) | LEGO Robotics Coding Club |
+| [LEGO/Spike-Prime](https://education.lego.com/en-us/start/spike-prime/) | LEGO lesson plans |
 
 ## Physical Resources 
-
-> [!NOTE] 
-> The actual purchase and tracking of the purchase should be managed by officers.
  
-| Link | Description | Activity |
-| --- | --- | --- |
-| [Amazon/Item]() | `What is the item` | `what is it for` |
-
+| Link | Description | Activity | Qty |
+| --- | --- | --- | --- |
+| [Lego Spike Prime Kits]() | Lego robotics | The hardware for the lego robotics. | ???|
+| iPads | Tablet | Program the lego robotics | ~10 |
 
 ## Installation Instructions
 
