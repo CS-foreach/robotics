@@ -5,11 +5,21 @@
 - notes
 - links
 
-Sessions: XX days, from MM/DD/YYYY to MM/DD/YYYY
+Sessions: 21 days, from 04/17/2024 to 06/26/2024
 
-## Day 01 - Title
+## Day 01 - Introduction to LEGO robotics
 ### Learning Goals
-- 
+- ice breaker: what is your favorite robot
+- define what a robot is
+  - show examples of current robots
+- assess the current skill level in finding pieces and making projects
+  - learn how to design static structures
+- learn how to clean up
+- vote on which lesson plan to choose from:
+  - business
+  - competition
+  - life hacks
+  - invention
 
 ## Day XX - Presentation Day
 - final day should generally be a presentation day
