@@ -20,8 +20,8 @@
 
 Class Links
 
-- [Whiteboard Snapshot](https://www.tldraw.com/s/v2_c_dpz0g5__NJ2kh4rvtVM_q?v=-535%2C318%2C5188%2C4068&p=page)
-- [Live Whiteboard](https://www.tldraw.com/r/5YDhyBG5aeDxqG6RDfAVb?v=-760,-495,5188,4068&p=page)
+- [Whiteboard Live](https://www.tldraw.com/r/5YDhyBG5aeDxqG6RDfAVb?v=-760,-495,5188,4068&p=page)
+- [Whiteboard Snapshot / Template](https://www.tldraw.com/s/v2_c_mnw0S9tV9_mbG-ydXHqJK?v=710%2C-65%2C3015%2C1579&p=page)
 
 Reference Links
 
