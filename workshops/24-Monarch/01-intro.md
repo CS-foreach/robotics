@@ -87,3 +87,6 @@ Don't know where to start? Try using the [PRIMM](https://primmportal.com/) frame
     - consider running the definition of robot discussion then exploring a 
         formal definition and classification based off of that (instead of formal
         we can use the instructor's definition)
+    - in this discussion, some students were bringing in related (but not quite
+    robot) examples such as: droids, androids, terminators, cyborgs, mechanical 
+    systems
