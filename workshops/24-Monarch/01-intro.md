@@ -70,8 +70,20 @@ Don't know where to start? Try using the [PRIMM](https://primmportal.com/) frame
     - The agreed upon definition of "robot" is technically wrong (they classified
         i-pads as robots as well??) and seem to casually reject the more traditional
         definition of robots
+        - solution: do classification first, then discuss definition later?
     - Some movie-related examples are complete misses (ie. star wars)
       - we need to either identify more broad examples to draw from or 
         share the culturally relevant clips / examples to pull from
     - job-related introduction question should've been more appropriate for 
         middle school, some students chose not to engage it in whatsoever (J, R)
+    - there are some vocab words that are not yet
+  - Notes:
+    - if running this discussion with a larger group, consider having a physical
+        voting system (ie. moving to the left side of the room for yes, etc.)
+    - observation: when running this activity with the high school students
+        during summer camp, there were more students but also more engagement
+    - observation: summer camp intro was smoother (favorite robot, what chore 
+      would you have a robot automate?)
+    - consider running the definition of robot discussion then exploring a 
+        formal definition and classification based off of that (instead of formal
+        we can use the instructor's definition)
