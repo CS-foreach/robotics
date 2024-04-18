@@ -22,6 +22,7 @@ Class Links
 
 - [Whiteboard Snapshot](https://www.tldraw.com/s/v2_c_dpz0g5__NJ2kh4rvtVM_q?v=-535%2C318%2C5188%2C4068&p=page)
 - [Live Whiteboard](https://www.tldraw.com/r/5YDhyBG5aeDxqG6RDfAVb?v=-760,-495,5188,4068&p=page)
+- [Post-discussion whiteboard](https://www.tldraw.com/s/v2_c_Wdubr1b0KyENYG48o1ekS?v=-766%2C-2249%2C5188%2C5878&p=page)
 
 Reference Links
 
@@ -32,25 +33,45 @@ Reference Links
 
 ## Setup
 
-- 
+- Use the whiteboard to facilitate discussion
+- Tables arranged in a donut perpendicular to the TV
+- Instructor positioned with back to the entrance
 
 ## Agenda
 Don't know where to start? Try using the [PRIMM](https://primmportal.com/) framework.
 
 1. Review agenda
-    1. Set premise / context
-    1. Review goals
-1. Introduce new concept
-    1. Predict
-    1. Run
-    1. Investigate
-1. Hand-off to students
-    1. Modify
-    1. Make
+    1. Introduction
+       1. name, what to do after graduation, favorite robot
+ 2. Discussion / defining robots
+    1. define a robot
+    2. categorize robots based on definition
+ 3. Vote on what units to work on next
+    1. movies
+    2. competition
+    3. invention
 
 ## After Action Report
-- Attendance:
+- Attendance: 4 students (J, M, R, N)
 - Wins:
-    - 
+    - M and N were really engaged with the discussion
+    - M literally wants to be a robotics engineer
+    - N wants to be a musician (there are lego robot music units)
+    - Inventory is 6 completely new LEGO Prime kits
+    - Small class is very manageable
+    - J was trying his best to not engage in the material but has demonstrated
+        an inkling of effort to engage in the discussion when prompted. Additionally
+        J seems interested in actually building the robot, not the philosophy
 - Fixes:
-    - 
+    - The discussion had too many examples to dig through
+    - the order of the discussion pairings had the more difficult classifications
+        too early
+    - The discussion could have a more streamlined checklist
+    - The agreed upon definition of "robot" is technically wrong (they classified
+        i-pads as robots as well??) and seem to casually reject the more traditional
+        definition of robots
+    - Some movie-related examples are complete misses (ie. star wars)
+      - we need to either identify more broad examples to draw from or 
+        share the culturally relevant clips / examples to pull from
+    - job-related introduction question should've been more appropriate for 
+        middle school, some students chose not to engage it in whatsoever (J, R)
