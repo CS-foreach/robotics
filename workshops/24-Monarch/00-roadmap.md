@@ -21,31 +21,31 @@ The scaffolding order for this class will roughly be:
 
 1. What is a robot / mechanical system
 1. Building structures / objects
-  - our aim here is to see what level their spatial reasoning skills are
-  - we can also encourage buildnig for aesthetics
+  1. our aim here is to see what level their spatial reasoning skills are
+  1. we can also encourage buildnig for aesthetics
 1. Simple machines?
-  - simple machines makes some operatons easier without the usage of motors
-  - mastery over non-motor-based machines is important
-  - allows us to reinforce or otherwise introduce more nuanced building 
+  1. simple machines makes some operatons easier without the usage of motors
+  1. mastery over non-motor-based machines is important
+  1. allows us to reinforce or otherwise introduce more nuanced building 
     techniques
 1. Builiding with a motor (how to build moving parts and lock axis)
-  - static machines can be automated with motors
-  - motors introduce more motion, how do we contain the motion
-  - consider unstable designs
-  - students will run instructor-provided code
+  1. static machines can be automated with motors
+  1. motors introduce more motion, how do we contain the motion
+  1. consider unstable designs
+  1. students will run instructor-provided code
 1. Programming motors
-  - Introducing programming concepts with a motor
-  - The physical design of the motor should not be the point of this lesson
+  1. Introducing programming concepts with a motor
+  1. The physical design of the motor should not be the point of this lesson
 1. Builiding with several motors (how to not fight each other)
-  - Introducing more than one motor allows us to have more complex systems of 
+  1. Introducing more than one motor allows us to have more complex systems of 
     either related or non-related motor systems
 1. Building with sensors
-  - Introducing sensors / input lends us more senses to see our world differently
-  - Introduces input, noise, etc.
+  1. Introducing sensors / input lends us more senses to see our world differently
+  1. Introduces input, noise, etc.
 1. Building with several sensor options
-  - Learners need to pick the right sensor for the job
+  1. Learners need to pick the right sensor for the job
 1. Building with sensors and motors
-  - Combining both sensors and motors to create a non-vehicle system
+  1. Combining both sensors and motors to create a non1.vehicle system
 1. Building vehicles
   - Vehicles pose the additional challenge of a different form of locomotion / 
     non-ego-centric framing
