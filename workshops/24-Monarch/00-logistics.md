@@ -6,6 +6,12 @@ Learning goals set the end goal of the workshop of lesson plan. What are the key
 takeaways? This helps curriculum developers determine what is supplemental and 
 what is important.
 
+- Apply an engineering framework to designing and building projects
+  - Learn how to decompose larger problems into smaller problems
+- Utilize AB Testing strategies
+- Have fun building projects
+
+Example learning goals (for reference in daily plans)
 - Identify and explain [x] in [y]
 - Describe the concept of [x] in [y]
 - Use [x] to solve [y]
@@ -62,7 +68,7 @@ Contributors:
  
 | Link | Description | Activity | Qty |
 | --- | --- | --- | --- |
-| [Lego Spike Prime Kits]() | Lego robotics | The hardware for the lego robotics. | ???|
+| [Lego Spike Prime Kits]() | Lego robotics | The hardware for the lego robotics. | 6 kits + 1 instructor kit |
 | iPads | Tablet | Program the lego robotics | ~10 |
 
 ## Installation Instructions
