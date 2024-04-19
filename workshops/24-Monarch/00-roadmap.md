@@ -66,6 +66,12 @@ The scaffolding order for this class will roughly be:
   - life hacks
   - invention
 
+## Day 02 - Setup day
+### Learning Goals
+- Recreate an doodad from a movie
+  - pay attention to aesthetics, moving parts
+- 
+
 ## Day XX - Presentation Day
 - final day should generally be a presentation day
 - if ESL / disadvantaged background / shy, as a teacher, go up and help present the project with the student
