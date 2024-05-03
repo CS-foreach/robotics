@@ -39,3 +39,4 @@ The [workshops]() folder will contain all the workshop lesson plans.
 | [GitHub/robotics](https://github.com/CS-foreach/robotics) | Workshop Repo |
 | [RedwoodCity/Lego-League](https://sites.google.com/view/rcplcode/lego-robotics-league) | LEGO Robotics Coding Club |
 | [LEGO/Prime](https://education.lego.com/en-us/start/spike-prime/) | LEGO lesson plans |
+| [VEX/Lesson-Plan](https://hoc.vexrobotics.com/activities/iq/) | VEX lesson plans |
