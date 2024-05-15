@@ -70,7 +70,26 @@ The scaffolding order for this class will roughly be:
 ### Learning Goals
 - Recreate an doodad from a movie
   - pay attention to aesthetics, moving parts
-- 
+
+## Day 03 - Building a safe
+
+## Day 04 - (Absent) Following LEGO lesson plan on car
+
+## Day 05 - Building a catapult
+### Learning Goals
+- Create a mechanism that can launch a ball (motors preferred)
+
+## Day 06 - Building a catapult pt 2 / Free build
+
+## Day 07 - Building a catapult pt 3 / Presentation Day
+> This day felt the most like the students were engaged... possibly
+> because I brought in cupcakes for the big day and had a better
+> testing arena.
+
+## Day 08 - Building a pet!
+## Learning Goal
+- Build a robo pet that reacts to human interaction
+  - ex: robo dog that wags it's tail
 
 ## Day XX - Presentation Day
 - final day should generally be a presentation day
